@@ -1,8 +1,7 @@
-# yohei-flask
-## it's backend for assignment 
+#### yohei-flask -> it's a backend project for assignment write in Written in 20 minutes
 
-### To run this project first u need to install the requirements.txt with this command : 
-## pip install -r requirements.txt
+##### To run this project first u need to install the requirements.txt with this command : 
+### pip install -r requirements.txt
 
-### after u install u can run it with this command : 
-## python .\main.py
+##### after u install u can run it with this command : 
+### python .\main.py
